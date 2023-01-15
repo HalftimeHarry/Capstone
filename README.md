@@ -12,6 +12,7 @@ npx hardhat test
 npx hardhat node
 node scripts/sample-script.js
 npx hardhat help
+npx hardhat run --network localhost scripts/1_deploy.js
 ```
 
 
